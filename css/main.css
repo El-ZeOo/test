@@ -1,0 +1,58 @@
+/* -------------- general ----------------- */
+body{
+    margin: 0;
+    
+}
+*{
+    box-sizing: border-box;
+}
+.mt-10{
+    margin-top: 350px;
+}
+/* -------------- edn general ----------------- */
+/* ------------ header --------------- */
+.header{
+    background-image: url(../img/1.jpg);
+    height: 700px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 13%;
+    border: solid 1px transparent;
+}
+.logo{
+    font-size: 37.5px;
+}
+.header i{
+    font-size: 25px;
+}
+.header i:hover{
+    color: white;
+}
+/* ------------  end header --------------- */
+/* --------- about ----------- */
+.about{
+    background-color: #EAEAEA;
+    
+}
+.about .bg-img{
+    border: solid 15px black;
+}
+.about img{
+    position: relative;
+    top: -40px;
+    left: 20px;
+}
+.about i{
+    font-size: 25px;
+    padding: 15px 0px;
+}
+/* --------- end about ----------- */
+/* ------------ Journal -------------- */
+.journal{
+    background-color: #EAEAEA;
+}
+.journal img{
+    height: 200px;
+}
+
+/* ------------ end Journal -------------- */
